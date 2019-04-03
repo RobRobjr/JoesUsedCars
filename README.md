@@ -5,7 +5,7 @@ This is a course project for CPW 215 Advanced .Net Core in the spring quarter of
 ## Upcoming features
 - List all available used cars
 - Browse for cars by various criteria
-- Contoct us (Email/Live chat)
+- Contact us (Email/Live chat)
 - About us (History of our fake dealership)
 - Trade-in calculator
 
